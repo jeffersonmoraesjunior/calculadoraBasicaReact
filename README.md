@@ -1,3 +1,14 @@
+# Calculadora em React
+
+Este é um projeto de uma calculadora simples desenvolvida em React. Essa calculadora realiza operações básicas de adição, subtração, multiplicação e divisão.
+
+# Funcionalidades
+### Adição de números
+### Subtração de números
+### Multiplicação de números
+### Divisão de números
+### Limpar a tela
+#
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
